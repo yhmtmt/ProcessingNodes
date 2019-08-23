@@ -1,0 +1,11 @@
+# Node
+Properties
+- name, ID
+- Setting (Protocol Buffer object)
+- Edges (List of Edge object)
+- logger (spdlog)
+
+Methods
+- proc : The function of the Node, fetch data from source edges, and dispatch processed data to destination edges
+- start : Initialization
+- end : Destruction

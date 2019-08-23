@@ -1,0 +1,13 @@
+# Manager
+Managing Node/Edge graph
+- Genarate Node/Edge
+- Delete Node/Edge
+- Start Node
+- Stop Node
+Scheduling Node processings and Edge data transmission
+Monitoring Aeron MediaDriver
+Setting (Protocol Buffer via gRPC)
+Logging, Graph Management, Node Scheduling, Aeron Activity
+
+# Commander
+Command via gRPC to Manager
